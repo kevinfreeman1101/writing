@@ -1,0 +1,12 @@
+# Dashboard Repair
+
+Vinyl and plastic dashboards are often thought of as nearly impossible to repair once they become cracked or faded. A number of repair shops claim that the only option available to car owners with damaged dashboards is to completely replace them, which usually costs a great deal more than the service is worth. This is why there is a fast growing trend among car owners to repair the damage themselves using a vinyl repair kit, matching paint, and a bit of know-how to ensure that the restored dashboard looks as good as new. 
+
+Before beginning a vinyl dashboard repair, it is essential to clean the entire repair area using a vinyl cleaning agent. Vinyl cleaning agents will not only provide an absolutely clean surface, but they will also lightly soften the material, making it easier for the bonding process to take place during the repair. In addition to the surface preparation, all surrounding areas should be covered with newspaper or plastic to ensure that any paint overspray doesn’t adhere to the wrong surfaces. 
+
+Most vinyl repair kits come with a standard molding compound that will need to be spread over the surface of a healthy portion of the dashboard. This compound will dry into the desired dashboard pattern, which will later shape the patched area. Pour the compound and spread over a large enough area to cover the entire repair, and allow it to dry while the cracked or torn area is being filled.
+
+Typical rips or cracks in a vinyl dashboard will need to be trimmed before they can be filled. This can be easily done with a razor knife or a small razor blade. When the repair area is leveled, fill the hole or crack with a sealing compound and allow the seal to harden. Some repair kits also come with a hardening spray that will activate the sealing compound and quickly create a hard surface to work with. Once the sealing compound has hardened, apply a second coat to compensate for any shrinkage that might have occurred.
+
+The last step in repairing a vinyl or plastic dashboard is to apply an even layer of sealing compound over the patched area, spray the hardener onto the molded side of the fully dried molding compound, and press the wetted area onto the seal. This will harden the seal into the final shape and pattern that will be needed to blend the patch with the rest of the dashboard. When the repair has fully dried, paint over the general area in order to fully blend the patch, and allow the paint to dry before applying a second or third coat. 
+
