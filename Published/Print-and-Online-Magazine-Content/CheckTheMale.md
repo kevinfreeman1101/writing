@@ -1,4 +1,4 @@
-It’s Time to Check the Male
+# It’s Time to Check the Male
 
 By Kevin Freeman
 
@@ -16,7 +16,7 @@ The good news is that medical science has advanced to a point at which we have a
 
 By caring for ourselves and the loved ones in our lives, we can take control of our futures and promote happy, healthy lives for many years to come. Help HealthCareerWeb.com spread the vitality in everyone’s lives by taking an active approach to meet and overcome difficult challenges like prostate cancer and spread awareness about the risks that many of us will face.    
 
-Related Links:
+## Related Links:
 
 [American Cancer Society](http://www.cancer.org/docroot/home/index.asp)
 

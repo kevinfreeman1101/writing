@@ -1,4 +1,4 @@
-GenShock Efficiently Sparks Intrigue Across the Nation
+# GenShock Efficiently Sparks Intrigue Across the Nation
 
 For publication in Careers in Gear Magazine
 

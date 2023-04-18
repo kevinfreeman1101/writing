@@ -1,4 +1,4 @@
-Idling Laws: How to Comply Without Going Broke
+# Idling Laws: How to Comply Without Going Broke
 
 By Kevin Freeman
 

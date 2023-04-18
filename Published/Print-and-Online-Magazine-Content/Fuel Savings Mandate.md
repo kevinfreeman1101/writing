@@ -1,4 +1,4 @@
-Proposed Government Mandate Requires 20% Lower Fuel Consumption for Truckers 
+# Proposed Government Mandate Requires 20% Lower Fuel Consumption for Truckers 
 
 By Kevin Freeman
 
@@ -22,7 +22,7 @@ Additional recommendations for fuel savings include choosing a rig that is desig
 
 Regardless of the often frustrating requirements that the government continually attempts to place on the transportation industry, fuel and maintenance savings can significantly increase the amount of money that drivers get to place in their pockets at the end of the day. Whether these requirements pass or fail, owner operators and trucking fleet managers might do well to check into these available resources to not only reduce costs, but also keep drivers up to 50% safer as they travel.
 
-Sources:
+## Sources:
 
 [National Geographic: Smarter Trucking Saves Fuel Over the Long Haul](http://news.nationalgeographic.com/news/energy/2011/09/110923-fuel-economy-for-trucks/)
 

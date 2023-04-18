@@ -1,4 +1,4 @@
-GPS? That’s So Last Week!
+# GPS? That’s So Last Week!
 
 Location-based phone software gives better results without the need for satellites.
 
@@ -6,9 +6,7 @@ By Kevin Freeman
 
 Since the advent of global positioning systems (GPS) and their integration on standard cell phones, map sellers around the world have been cursing at their terrible misfortunes while their profit margins are practically swallowed whole by the digital age – or at least they would be if GPS were as reliable as their good old-fashioned maps. Now, the makers and sellers of GPS mobile technology are slated to be cursing alongside them as an emerging software company, GloPos, rolls out its new location-based program. 
 
-Rather than using a satellite signal or wireless LAN connection to find its way, the new patent-pending software from GloPos allows cell phones to triangulate their positions by communicating directly with the nearest cell phone towers to get an accurate triangulation. It does this by sending tiny amounts of information to a specialized server, which uses an advanced algorithm to figure out exactly where the signal came from. The information is sent back within seconds, giving an accurate location on a map that allows you to find your destination. 
-
- 
+Rather than using a satellite signal or wireless LAN connection to find its way, the new patent-pending software from GloPos allows cell phones to triangulate their positions by communicating directly with the nearest cell phone towers to get an accurate triangulation. It does this by sending tiny amounts of information to a specialized server, which uses an advanced algorithm to figure out exactly where the signal came from. The information is sent back within seconds, giving an accurate location on a map that allows you to find your destination.  
 
 In today’s business world, every penny coming in or going out requires constant monitoring and extreme behavioral modification. Which is why a growing number of wireless subscribers have grown tired of paying outrageous monthly fees for wireless internet services that are coupled with even more fees for GPS services, only to end up receiving information that is often unreliable. With Glopos, they don’t have to; the software also gives a more accurate location than GPS presently allows, narrowing down the position to somewhere between 1 and 40 meters, according to their website (glopos.com).
 

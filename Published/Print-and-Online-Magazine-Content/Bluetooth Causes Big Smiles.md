@@ -1,4 +1,4 @@
-Bluetooth Causes Big Smiles						       by Kevin Freeman
+# Bluetooth Causes Big Smiles						       by Kevin Freeman
 
 Published in NE edition of CareersInGear Magazine, Feb. 2009
 

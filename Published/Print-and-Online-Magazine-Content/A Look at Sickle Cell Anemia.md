@@ -1,10 +1,10 @@
-A Look at Sickle Cell Anemia
+# A Look at Sickle Cell Anemia
 
 By Kevin Freeman
 
 Although many of us have heard of sickle cell anemia, its causes, effects, and future outlook aren’t as commonly known or understood. This is primarily due to a lack of public awareness and an even greater lack of funding for researchers who would otherwise fight the disease. 
 
-Sickle Cell Overview
+## Sickle Cell Overview
 
 Sickle cell is a genetic disease that is caused by a rare form of hemoglobin called hemoglobin S. Hemoglobin S causes red blood cells (normally disc shaped) to shrink, reducing them to a crescent, or sickle shape that is far less effective in performing its normal functions. When regularly treated, sickle cell patients typically live into their 50’s and beyond, while those who go untreated only reach 20-40 years of age before succumbing to organ failure or infection. 
 
@@ -14,7 +14,7 @@ According to PubMed Health, sickle cell is most commonly found in people whose l
 
 The many symptoms of sickle cell, which do not typically occur until after 4 months of age, include pain in the abdomen, bones, or chest, fatigue and breathlessness, delayed growth or puberty, fever, paleness, rapid heart rate, ulcers, jaundice, excessive thirst, frequent urination, painful and prolonged erection (priapism), poor eyesight, strokes, and skin ulcers.  
 
-Sickle Cell Treatment
+## Sickle Cell Treatment
 
 While sickle cell can be completely cured through stem cell treatments or bone marrow replacement therapy, the high costs and/or risks to the patient from such treatments typically mean that only a small percentage of sickle cell patients will be cured. For the same reasons, curative treatment is only available to a small percentage of patients, leaving the majority without other options. 
 
@@ -24,13 +24,13 @@ Most importantly, sickle cell patients must maintain high oxygen levels, stay co
 
 Genetic counseling may also prove beneficial to parent carriers of the sickle cell trait to assess the likelihood that children will have sickle cell and, in some cases, to predict the likely level of severity.
 
-Sickle Cell Research 
+## Sickle Cell Research 
 
 It is an unfortunate fact that funding for research facilities and sickle cell treatment centers is severely limited. However, the grim outlook for sufferers of sickle cell could change in the near future as universities, research centers, and hospitals explore patient options and beneficial treatments.  
 
 To make a difference in the lives of those who suffer from sickle cell, and the lives of future generations, there are a number of organizations already in place to make a difference. These organizations include, but are certainly not limited to, the Red Cross, Johns Hopkins Children’s Hospital, and the Armstead-Barnhill Foundation for Sickle Cell Anemia.  
 
-Sources: 
+## Sources: 
 
 [PubMed Health: Sickle Cell Anemia](http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001554/)
 

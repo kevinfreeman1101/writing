@@ -1,8 +1,6 @@
-Acetaminophen Linked With Childhood Asthma: Doctors Instructing Parents to Use Alternatives
+# Acetaminophen Linked With Childhood Asthma: Doctors Instructing Parents to Use Alternatives
 
 Kevin Freeman
-
- 
 
 In a number of investigations conducted by the International Study of Allergy and Asthma in Childhood over the past 30 years, a very strong relationship has been documented between acetaminophen use and the development of asthma in children, in addition to a possible association with Rhino-conjunctivitis and eczema. 
 
@@ -22,7 +20,7 @@ Although acetaminophen is still free of all charges as a direct cause of asthma 
 
 If you have ever struggled with lung problems such as asthma, chronic obstructive pulmonary disease, or decreased lung function – or if you know someone with any of these problems – the safe move would certainly be to switch to an alternative like ibuprofen if possible, or even stop taking analgesics altogether where circumstances allow. Consult your doctor regarding prescription alternatives that don't contain acetaminophen, and never remove yourself from a current prescription without first seeking professional medical advice. 
 
-Resources: 
+## Resources: 
 
 [Official Journal of the American Acadamy of Pediatrics: The Association of Acetaminophen and Asthma Prevalence and Severity](http://pediatrics.aappublications.org/content/128/6/1181.full.pdf)
 

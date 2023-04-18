@@ -1,4 +1,4 @@
-Organ Transplants: Generating New Life from Wasted Tissue
+# Organ Transplants: Generating New Life from Wasted Tissue
 
 By Kevin Freeman
 
@@ -18,7 +18,7 @@ At present, regenerated organs such as these can last for 10 days in culture, an
 
 What’s the big secret? That information is, of course, not being released to the public at this time, but if all goes as planned, the results might provide new hope for uncountable numbers of hopeful organ recipients in the very near future. 
 
-Article Source: 
+## Article Source: 
 
 [MIT Technology Review: Old Livers Made New Again ](http://www.technologyreview.com/biomedicine/25538/?a=f)
 
@@ -26,5 +26,5 @@ Article Source:
 
 [MIT Technology Review: Making New Livers out of Old Ones](http://www.technologyreview.com/video/?vid=580) 
 
-Author: [Kevin Freeman](http://freemanwriting.com)
+Author: [Kevin Freeman](http://kevinlfreeman.com)
 

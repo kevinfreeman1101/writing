@@ -1,4 +1,4 @@
-Setpoint Joins the Fight against Autoimmune Disease
+# Setpoint Joins the Fight against Autoimmune Disease
 
 By Kevin Freeman
 
@@ -14,7 +14,7 @@ In response to this setback, Setpoint has developed a highly specialized device 
 
 While Setpoint’s new treatment has been highly effective in laboratory animals, it hasn’t yet been used in human trials, which means that implementation of the device will likely take some time. However, current sufferers from serious inflammatory maladies such as Rheumatoid Arthritis are now looking at a much brighter outcome for their conditions. 
 
-Sources:
+## Sources:
 
 [Setpoint Medical](http://www.setpointmedical.com/) 
 

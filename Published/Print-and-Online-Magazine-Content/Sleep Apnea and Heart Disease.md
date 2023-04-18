@@ -1,4 +1,4 @@
-Sleep Apnea and Heart Disease: A Disturbing Revelation
+# Sleep Apnea and Heart Disease: A Disturbing Revelation
 
 By Kevin Freeman
 
@@ -14,7 +14,7 @@ A separate study revealed that 56% of newly diagnosed OSA patients already have 
 
 Many people who suffer from OSA remain completely unaware of the fact, leaving the initial observation up to a spouse or similar observer who may notice irregular breathing and/or heavy snoring during sleep. If you suspect OSA, or know someone else who exhibits the symptoms, you should speak with your physician about finding an accredited sleep study center to perform a sonogram, which will assess the severity of the possible condition. 
 
-Article Source: 
+## Article Source: 
 
 [Circulation](http://circ.ahajournals.org/cgi/content/full/122/4/352)
 

@@ -1,4 +1,4 @@
-Old Dominion Blacklists Drivers who Self-Report Alcohol Problems: Now Sued by EEOC
+# Old Dominion Blacklists Drivers who Self-Report Alcohol Problems: Now Sued by EEOC
 
 By Kevin Freeman
 

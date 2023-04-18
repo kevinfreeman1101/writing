@@ -1,4 +1,4 @@
-Gearing up for Holiday Treats: Are You at Risk for Diabetes? 
+# Gearing up for Holiday Treats: Are You at Risk for Diabetes? 
 
 by Kevin Freeman
 
@@ -8,7 +8,7 @@ Most Americans are resigned to the fact that they will come out of the holiday s
 
 There is still hope for making it through an entire holiday season without gaining an ounce or placing ourselves at risk – but a lifetime of overeating and giving in to a hankering sweet tooth may have already caused considerable damage to our bodies.
 
-Avoiding High Risk Behaviors
+## Avoiding High Risk Behaviors
 
 If you think you aren’t at risk for diabetes, these statistics may come as a surprise. According to the Center for Disease Control (CDC), in the United States:
 
@@ -36,7 +36,7 @@ On the positive side, studies have shown that there are a number of ways we can 
 
 Visit the [American Diabetes Association](http://www.diabetes.org/diabetes-basics/?loc=GlobalNavDB) or the [CDC](http://www.cdc.gov/diabetes/pubs/pdf/ndfs2011.pdf) to learn more about these risks and how to compensate for them. 
 
-Trade Bad Habits for Good Ones
+## Trade Bad Habits for Good Ones
 
 Everyone reacts differently when attempting to change bad habits, but there are a few principles that will help you find success through the trials and temptations ahead. 
 
@@ -46,7 +46,7 @@ Breaking bad habits is somewhat trickier to categorize in a specific time range.
 
 Maintaining good habits while avoiding the bad ones for at least 66 days yields the greatest chances of remaining strong for any length of time thereafter. Break up the time into manageable intervals, and don’t get frustrated if you struggle. Write down your progress in a visible place as a constant reminder, and picture your healthier, happier life for best results. 
 
-Resources: 
+## Resources: 
 
 [ADA: Diabetes Basics](http://www.diabetes.org/diabetes-basics/?loc=GlobalNavDB)
 

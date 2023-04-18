@@ -1,4 +1,4 @@
-Healthcare Trends: Looking Back At 2011
+# Healthcare Trends: Looking Back At 2011
 
 Kevin Freeman
 
@@ -21,6 +21,8 @@ The Joint Commission on Accreditation of Healthcare Organizations (JCAHO) has is
 Some of the most impressive strides that were taken in 2011 involved amazing breakthroughs in medical technology and the fight against communicable disease. In a recent article, we covered a very promising genetic modification of human T cells that cured 2 out of 3 patients of advanced leukemia; the first man-made blood vessels and muscle tissue were brought to light; new implants were designed to continually monitor tumors; and the list goes on. 
 
 While 2011 seemed to be a beacon of hope for many doctors and patients alike, with technologies and procedural innovations bringing medicine to record heights of success, 2012 is shaping up to continue the trend. It boggles the mind to consider what we can truly do when we utilize our ever-growing resources and decide to change history. Here's to another great year! 
+
+## Sources
 
 [http://www.forbes.com/sites/ciocentral/2012/01/02/unhealthy-2011-saw-surge-in-hippa-compliance-issues/](http://www.forbes.com/sites/ciocentral/2012/01/02/unhealthy-2011-saw-surge-in-hippa-compliance-issues/)
 

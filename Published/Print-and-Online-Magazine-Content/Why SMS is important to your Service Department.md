@@ -1,4 +1,4 @@
-Why SMS is Important to Your Service Department
+# Why SMS is Important to Your Service Department
 
 Kevin Freeman
 

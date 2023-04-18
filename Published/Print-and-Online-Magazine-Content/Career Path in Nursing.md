@@ -1,4 +1,4 @@
-Breast Cancer and Oncology – Who to Trust When You’ve been Diagnosed
+# Breast Cancer and Oncology – Who to Trust When You’ve been Diagnosed
 
 By Kevin Freeman
 
@@ -18,9 +18,9 @@ No matter which type of cancer you or someone you know has been diagnosed with, 
 
 Perhaps most importantly, seek out the experts who will give you the best chances for survival, based on your specific needs and circumstances. And the next time you see an oncologist, be sure to thank him or her for the exceptional work that they do each and every day in the world’s fight against cancer. 
 
-Resources:
+## Resources:
 
- [The National Cancer Institute(NCI)](http://www.cancer.gov)
+[The National Cancer Institute(NCI)](http://www.cancer.gov)
 
 [NCI Treatment Facility Finder](https://cissecure.nci.nih.gov/factsheet/FactSheetSearch12.aspx)
 

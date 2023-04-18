@@ -1,4 +1,4 @@
-Cutting Edge Computers on a Budget
+# Cutting Edge Computers on a Budget
 
 Putting Dollars Back In Your Pocket One Upgrade at a Time
 

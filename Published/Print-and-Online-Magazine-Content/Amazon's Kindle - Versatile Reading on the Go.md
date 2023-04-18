@@ -1,4 +1,4 @@
-Amazon’s Kindle: Versatile Reading on the Go
+# Amazon’s Kindle: Versatile Reading on the Go
 
 Published in Careers in Gear Magazine, October, 2009
 

@@ -1,4 +1,4 @@
-Stylus Tough-8000: Tough with a Capital T
+# Stylus Tough-8000: Tough with a Capital T
 
 By Kevin Freeman
 

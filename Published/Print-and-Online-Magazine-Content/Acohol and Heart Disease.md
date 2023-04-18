@@ -1,4 +1,4 @@
-Alcohol and Heart Disease in Men: Interesting Facts to Consider with Caution
+# Alcohol and Heart Disease in Men: Interesting Facts to Consider with Caution
 
 Kevin Freeman
 
@@ -21,7 +21,7 @@ Epidemiological studies such as these are great tools for providing valuable inf
 
 In essence, moderate drinking seems, on the surface, to be a reasonably healthy choice for many, but if it leads to increases in alcohol use, poor judgment, or alcoholism, the fact remains that avoiding it altogether may still be the most responsible choice. Taking this into consideration, always consult your doctor before choosing to explore the possible benefits of alcohol consumption for yourself.
 
-Source:
+## Source:
 
 [New England Journal of Medicine: Roles of Drinking Pattern and Type of Alcohol Consumed in Coronary Heart Disease in Men](http://www.nejm.org/doi/full/10.1056/NEJMoa022095#t=article)
 

@@ -1,10 +1,10 @@
-Labor Day Fun in the Sun: Keeping it Safe for the Whole Family
+# Labor Day Fun in the Sun: Keeping it Safe for the Whole Family
 
 By Kevin Freeman
 
 Planning to spend some time in the sun this weekend? Enjoy yourself this Labor Day, but keep in mind that there are precautions you can take that will allow you to have a great time while reducing your risk of too much sun exposure.
 
-Sunscreen Types and Uses
+## Sunscreen Types and Uses
 
 These days, sunscreen comes in so many forms and types that it might be hard to find the most effective product. Whether you choose a powder, wax, liquid, gel, or spray, all seem equally effective when comparing spectrum level and the SPF factor. 
 
@@ -16,7 +16,7 @@ Another sunscreen consideration is which ingredients are used to make it effecti
 
 Always apply sunscreen at least 30 minutes before going outside, and re-apply every 2 hours, or even more often if you’re sweating.
 
-Safe Sun Practices
+## Safe Sun Practices
 
 Planning on taking a swim? Even waterproof sunscreen gets washed off easily, so re-apply sunscreen often if you plan on spending time in the water, and always apply another layer when leaving the water.  
 
@@ -28,7 +28,7 @@ If you do end up with a sunburn, there aren’t many things you can do to reduce
 
 Lastly, enjoy your Labor Day weekend, and rest assured that you are following all of these safe practices so that you can enjoy many more in the future! 
 
-Sources: 
+## Sources: 
 
 [MayoClinic: Best sunscreen: Understand sunscreen options](http://www.mayoclinic.com/health/best-sunscreen/MY01350)
 

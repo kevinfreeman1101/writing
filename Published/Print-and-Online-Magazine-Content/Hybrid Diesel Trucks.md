@@ -1,4 +1,4 @@
-Hybrid Diesel Trucks Boast 30% Fuel Savings
+# Hybrid Diesel Trucks Boast 30% Fuel Savings
 
 For publication in Careers in Gear Magazine
 

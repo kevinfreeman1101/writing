@@ -1,10 +1,10 @@
-Investigating Leukemia
+# Investigating Leukemia
 
 By Kevin Freeman
 
 For any disease, early detection is key to beating the odds and becoming a survivor. But what if a deadly disease appears to be a common flu virus, or has even milder symptoms like excessive sweating at night? Such is often the case with leukemia – the most common form of cancer found in children, and a form of cancer frequently found in adults.
 
-How Leukemia Affects the Body
+## How Leukemia Affects the Body
 
 There are 4 common forms of leukemia: acute lymphocytic leukemia, chronic lymphocytic leukemia, acute myeloid leukemia, and chronic myeloid leukemia. Of these, the most commonly found types are acute lymphocytic leukemia in children, and acute myeloid leukemia in adults. 
 
@@ -14,7 +14,7 @@ In acute forms of leukemia, mutated cells are immature and completely unable to 
 
 Once leukemia cells develop, they multiply at a fast rate and live longer than their healthy counterparts. This results in functional cells getting crowded out and replaced by dysfunctional cells. 
 
-Assessing the Risk of Leukemia
+## Assessing the Risk of Leukemia
 
 Exposure to tobacco smoke is a widely known cause of leukemia. Because the chemicals in tobacco smoke enter the bloodstream through the lungs, they can end up residing in the bone marrow, where they corrupt healthy tissues, causing them to produce leukemic cells in the blood.
 
@@ -26,17 +26,15 @@ In the first year of life, having a twin with leukemia is a significant risk fac
 
 Other conditions that have been linked to leukemia include blood problems resulting in high levels of red blood cells, Down syndrome, Fanconi anemia, Bloom syndrome, Ataxia-telangiectasia, and Blackfan-Diamond syndrome. 
 
-White males also have a higher rate of being diagnosed with leukemia, although the reasons for this are still unclear.
+White males also have a higher rate of being diagnosed with leukemia, although the reasons for this are still unclear. 
 
- 
-
-Early Detection
+## Early Detection
 
 Because leukemia shares many of its symptoms with other common illnesses, see a doctor quickly if a more serious condition is suspected. Leukemia symptoms include fever; chills; weakness/fatigue; frequent infections; lack of appetite; weight loss without trying; swollen/tender lymph nodes, liver, or spleen; easy bleeding/bruising; tiny red spots under the skin; swollen/bleeding gums; excessive sweating, especially at night; bone/joint pain; anemia. 
 
 When doctors suspect leukemia, they may perform a number of tests to obtain confirmation. Tests include examining your medical history; conducting a physical examination; blood tests; imaging tests, including x-rays, ultrasounds, CT scans, MRI’s, and bone scans; biopsy of bone marrow; surgical biopsy of the lymph nodes; lumbar puncture. 
 
-Treatment Options
+## Treatment Options
 
 Treatment options for leukemia include:
 
@@ -50,13 +48,13 @@ Stem Cell Transplant – after chemotherapy destroys blood stem cells, a transpl
 
 Bone Marrow Transplant – replacing destroyed bone marrow with healthy bone marrow or stem cells. This has become a less common practice in lieu of peripheral blood stem cell transplants.
 
-Outlook
+## Outlook
 
 Advances in medical science are showing very promising possibilities for the elimination of most forms of leukemia. Unfortunately, there are never enough funding sources or volunteers to fully explore all of these possibilities and find an effective cure. 
 
 If you would like to make a difference, visit the American Cancer Society’s website to find ways to volunteer or donate money toward finding a cure. 
 
-Resources: 
+## Resources: 
 
 [American Cancer Society: What causes acute myeloid leukemia?](http://www.cancer.org/Cancer/Leukemia-AcuteMyeloidAML/OverviewGuide/leukemia-aml-overview-what-causes)
 

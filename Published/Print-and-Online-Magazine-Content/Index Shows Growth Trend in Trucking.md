@@ -1,4 +1,4 @@
-Trucking Index Shows Promising Growth Trend: Inspires Confidence That The Industry Will Continue To Expand
+# Trucking Index Shows Promising Growth Trend: Inspires Confidence That The Industry Will Continue To Expand
 
 Kevin Freeman
 
@@ -20,7 +20,7 @@ Requirements for drivers to acquire and maintain commercial driver's licenses ar
 
 The industry has weathered a nasty storm in recent years, but the good news is that things are finally looking up. Although regulations and world turmoil threaten to stifle the economy at any turn, there is at least sufficient cause to enjoy a bright outlook for the near future. 
 
-Sources:
+## Sources:
 
 [http://www.todaystrucking.com/news.cfm?intDocID=27938](http://www.todaystrucking.com/news.cfm?intDocID=27938)
 
