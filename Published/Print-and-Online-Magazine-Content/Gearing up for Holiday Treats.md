@@ -62,5 +62,5 @@ Maintaining good habits while avoiding the bad ones for at least 66 days yields 
 
 [PubMedHealth: Type 2 Diabetes](http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0001356/)
 
-[Psychology Today: Creatures of Habit](http://www.psychologytoday.com/blog/creatures-habit/200912/how-long)
+[Psychology Today: Creatures of Habit](http://www.psychologytoday.com/blog/creatures-habit/200912/how-long) 
 
