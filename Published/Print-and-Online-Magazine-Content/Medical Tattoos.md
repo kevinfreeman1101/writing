@@ -1,4 +1,4 @@
-# Medical Tattoos: Are They Catching?
+# Medical Tattoos: Are They Catching On?
 
 For publication in Careers in Gear Magazine (Multiple Issues) August, 2009
 
