@@ -1,3 +1,7 @@
+# Commentary: Thus Spake Zarathustra
+
+This text is deeply interesting, provocative, and highly controversial, if not detestable in some of its statements. Portions of the text are absolutely dripping with sarcasm while other sections seem quite profound and logical. For these reasons, I will study it in greater detail over time, adding commentary notes here which may someday be incporporated in a future publication.
+
 ## 1
 
   WHEN Zarathustra was thirty years old [^1], he left his home and the lake of his home, and went into the mountains. There he enjoyed his spirit and his solitude, and for ten years did not weary of it. But at last his heart changed, and rising one morning with the rosy dawn, he went before the sun and spake thus unto it[^2]:
