@@ -2,6 +2,10 @@
 
 This content was generated using a Large Language Model called **wizardlm2**. If you try it out, let me know how it went!
 
+## Prompt
+
+I'm searching for an excellent tutorial that shows me how to build a FastAPI Django website with Postgresql. Any recommendations?
+
 ## wizardlm2 Response
 
 Creating a FastAPI-Django hybrid application with PostgreSQL as the database involves integrating FastAPI as an API backend with Django, which can be used for handling web views and managing database migrations, among other things. Here's a step-by-step guide to help you set up such a system:
