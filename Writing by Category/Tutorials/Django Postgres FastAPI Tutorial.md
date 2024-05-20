@@ -1,6 +1,6 @@
 # Django Postgres FastAPI Tutorial
 
-This content was generated using wizardlm2. If you try it out, let me know how it went!
+This content was generated using a Large Language Model called **wizardlm2**. If you try it out, let me know how it went!
 
 ## wizardlm2 Response
 
