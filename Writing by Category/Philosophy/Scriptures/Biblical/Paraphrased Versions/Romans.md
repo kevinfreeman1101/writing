@@ -6,6 +6,8 @@ Paraphrase the book of Romans using the original Greek text to produce a modern 
 
 ## Response
 
+Here is a paraphrased version of the Book of Romans using the original Greek text:
+
 **Romans 1:1-32**: Introduction to Paul' s Letter
 Paul greets his friends in Rome, expressing gratitude for God' s mercy and writing about Jesus' message of salvation.
 

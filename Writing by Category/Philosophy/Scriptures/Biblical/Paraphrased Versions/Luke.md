@@ -6,6 +6,8 @@ Paraphrase the book of Luke using the original Greek text to produce a modern En
 
 ## Response
 
+Here is a paraphrased version of the Book of Luke using the original Greek text:
+
 **Luke 1:5-25**: The Birth of John the Baptist
 Zechariah, a priest, was visited by an angel who announced that his wife would bear a son, John the Baptist. Zechariah doubted the news and became mute until John's birth.
 
