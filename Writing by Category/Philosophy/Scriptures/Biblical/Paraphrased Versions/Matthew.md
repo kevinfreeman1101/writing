@@ -1,6 +1,6 @@
 # The Book of Matthew, Paraphrased
 
-## Query
+## llama3 Query
 
 Paraphrase the book of Matthew using the original Greek text to produce a modern English translation. Translate the ancient Greek directly into English using period-specific language understanding. Provide additional context notes summarizing related archaeological discoveries (provide valid URL references for good summary articles where readers can learn more), cultural context notes, information from period historians, and geographical name information so readers understand the relationship between ancient nations and their modern equivalents where appropriate.
 
