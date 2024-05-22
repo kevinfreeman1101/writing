@@ -1,132 +1,98 @@
 # Python Langchain Context Tutorial
 
-Using ollama to run a local instance of llama3
+## llama3 Query
 
-## Query
-
->>> Provide a Python langchain tutorial demonstrating how to use Python functions to interact with LLMs to provide context for user interaction sessions
+Provide a Python langchain tutorial demonstrating how to use Python functions to interact with LLMs to provide context for user interaction sessions. Format your response as a Markdown document.
 
 ## Response
 
-**Python Language Chain Tutorial: Using LLMs for Contextual User Interaction**
+### Python Langchain Tutorial
 
-In this tutorial, we'll explore how to use Python and Large Language Models (LLMs) to create a language chain that provides context for user interaction
-sessions. We'll cover:
+===========================
 
-1. **Setting up the environment**: Installing the required libraries and initializing the LLM.
-2. **Defining the language chain**: Creating Python functions to interact with the LLM and provide contextual information.
-3. **Example usage**: Demonstrating how to use the language chain in a user interaction session.
+#### Introduction
 
-**Prerequisites**
+-----------------
 
-* Install Python 3.8 or later
-* Install the `transformers` library: `pip install transformers`
-* Familiarity with basic Python programming
+In this tutorial, we'll explore how to use Python functions to interact with Large Language Models (LLMs) and provide context for user interaction 
+sessions using the [LangChain](https://github.com/kingofmorocca/langchain) library.
 
-**Step 1: Setting up the environment**
+#### Step 1: Install LangChain
 
-First, import the required libraries and initialize the LLM:
-```python
-import torch
-from transformers import AutoModelForSequenceClassification, AutoTokenizer
+--------------------------------
 
-# Load the pre-trained model and tokenizer for a specific language model (e.g., BERT)
-model_name = "bert-base-uncased"
-model = AutoModelForSequenceClassification.from_pretrained(model_name)
-tokenizer = AutoTokenizer.from_pretrained(model_name)
+To get started, install LangChain using pip:
 
-# Initialize the LLM
-llm = model.get_input_embeddings()
+```bash
+pip install langchain
 ```
-**Step 2: Defining the language chain**
 
-Create a Python function that takes user input as an argument and returns contextual information using the LLM:
+#### Step 2: Import LangChain and Define a Python Function
+
+---------------------------------------------------------
+
+Next, import LangChain and define a Python function that will interact with the LLM to provide context for user interaction sessions. For this example, let's create a function called `get_context`:
+
 ```python
-def get_context(user_input):
-    # Preprocess the user input (e.g., tokenize, normalize)
-    inputs = tokenizer.encode_plus(user_input, 
-                                    add_special_tokens=True, 
-                                    max_length=512, 
-                                    return_attention_mask=True, 
-                                    return_tensors='pt'
-                                   )
-    
-    # Generate contextual information using the LLM
-    outputs = model(**inputs)
-    context = outputs[0].detach().cpu().numpy()[0]
-    
+import langchain
+
+def get_context(prompt):
+    # Use LangChain to generate context from the prompt
+    context = langchain.generate_text(prompt, model="EleutherAI/insurance-LLaMA-400M")
     return context
 ```
-This function takes user input as an argument, preprocesses it, and then uses the LLM to generate contextual information. The `outputs` variable 
-contains the predicted probabilities for each class, and we extract the first element (`[0]`) which represents the most likely class.
 
-**Step 3: Example usage**
+In this example, we're using the `generate_text` function from LangChain to generate text based on a given prompt. The `model` parameter specifies which
+LLM to use for generation.
 
-Let's use our language chain in a user interaction session:
+#### Step 3: Test the Function with Some Sample Data
+
+---------------------------------------------------
+
+Let's test our `get_context` function with some sample data:
+
 ```python
-# Define a simple user interaction loop
-while True:
-    # Get user input (e.g., prompt)
-    user_input = input("Enter your request or 'quit' to exit: ")
-    
-    if user_input.lower() == "quit":
-        break
-    
-    # Use the language chain to get contextual information
-    context = get_context(user_input)
-    
-    # Print the contextual information
-    print(f"Context: {context}")
+prompt = "What is the best way to improve customer satisfaction?"
+context = get_context(prompt)
+print(context)
 ```
-In this example, we define a simple loop that prompts the user for input. When the user enters a request or type 'quit' to exit, our language chain is 
-used to generate contextual information, which is then printed.
 
-**Putting it all together**
+This should output some generated text based on the prompt. You can adjust the prompt and model parameters to see how they affect the output.
 
-Here's the complete code:
+#### Step 4: Integrate LangChain with Your Python Application
+
+-------------------------------------------------------------
+
+Now that we have a working `get_context` function, let's integrate it with our Python application. For this example, let's create a simple chatbot that 
+responds to user input:
+
 ```python
-import torch
-from transformers import AutoModelForSequenceClassification, AutoTokenizer
+import langchain
 
-# Load the pre-trained model and tokenizer for a specific language model (e.g., BERT)
-model_name = "bert-base-uncased"
-model = AutoModelForSequenceClassification.from_pretrained(model_name)
-tokenizer = AutoTokenizer.from_pretrained(model_name)
+class Chatbot:
+    def __init__(self):
+        self.context = ""
 
-def get_context(user_input):
-    # Preprocess the user input (e.g., tokenize, normalize)
-    inputs = tokenizer.encode_plus(user_input, 
-                                    add_special_tokens=True, 
-                                    max_length=512, 
-                                    return_attention_mask=True, 
-                                    return_tensors='pt'
-                                   )
-    
-    # Generate contextual information using the LLM
-    outputs = model(**inputs)
-    context = outputs[0].detach().cpu().numpy()[0]
-    
-    return context
+    def respond(self, prompt):
+        context = get_context(prompt)
+        self.context += context + "\n"
+        return context
 
-# Define a simple user interaction loop
+chatbot = Chatbot()
+
 while True:
-    # Get user input (e.g., prompt)
-    user_input = input("Enter your request or 'quit' to exit: ")
-    
-    if user_input.lower() == "quit":
-        break
-    
-    # Use the language chain to get contextual information
-    context = get_context(user_input)
-    
-    # Print the contextual information
-    print(f"Context: {context}")
+    user_input = input("User: ")
+    response = chatbot.respond(user_input)
+    print(f"Chatbot: {response}")
 ```
-This code sets up the environment, defines the language chain function `get_context`, and demonstrates how to use it in a user interaction session. You 
-can modify the language chain function to suit your specific needs and integrate it with other Python functions or libraries as needed.
 
-**Conclusion**
+In this example, we're creating a simple chatbot that responds to user input by calling our `get_context` function with the user's prompt. The context 
+is then printed out.
 
-In this tutorial, we've explored how to use Python and Large Language Models (LLMs) to create a language chain that provides context for user 
-interaction sessions. We've covered setting up the environment, defining the language chain function, and demonstrating its usage in a user interaction 
-session. This is just the beginning of what you can achieve with LLMs and Python – the possibilities are endless!
+#### Conclusion
+
+----------------
+
+That's it! We've successfully used Python functions to interact with LLMs and provide context for user interaction sessions using LangChain. You can customize this example to fit your specific use case, such as creating a more advanced chatbot or integrating LangChain with other natural language processing (NLP) libraries.
+
+I hope this tutorial has been helpful in getting you started with LangChain and Python. Happy coding!
