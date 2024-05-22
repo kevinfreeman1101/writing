@@ -1,9 +1,12 @@
 # Python Langchain Context Tutorial
 
-```ollama;llama3
-# ollama query while running llama3
+Using ollama to run a local instance of llama3
+
+## Query
+
 >>> Provide a Python langchain tutorial demonstrating how to use Python functions to interact with LLMs to provide context for user interaction sessions
-```
+
+## Response
 
 **Python Language Chain Tutorial: Using LLMs for Contextual User Interaction**
 

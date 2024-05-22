@@ -1,10 +1,12 @@
 # Python PDF Processing Tutorial
 
-```ollama;llama3
-# ollama query while running llama3
+Using ollama to run a local instance of llama3
+
+## Query
 
 >>> Provide the Python code required to process batches of PDF documents, extracting their data for upload into a Postgresql 16 database. Assume the documents provided are PDFs which require tag structure cleanup in accordance with current WCAG standards, OCR, and metadata inference before extracting the data. The program should extract all available data and output a clean PDF that can be easily navigated using assistive technology like commonly-used screen readers or voice reading assistants.
-```
+
+## Response
 
 **Python Code for Processing Batches of PDF Documents**
 

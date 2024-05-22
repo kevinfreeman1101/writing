@@ -1,8 +1,8 @@
 # Django Postgres FastAPI Tutorial
 
-This content was generated using a Large Language Model called **wizardlm2**. If you try it out, let me know how it went!
+Using ollama to run a local instance of wizardlm2
 
-## Prompt
+## Query
 
 I'm searching for an excellent tutorial that shows me how to build a FastAPI Django website with Postgresql. Any recommendations?
 

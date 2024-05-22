@@ -1,9 +1,12 @@
 # Production Python Django Application
 
-```ollama;llama3
-# ollama query while running llama3
->>> Provide a tutorial for advanced Python users demonstrating how to host a production Django application connected to a remote Postgresql 16 database. The tutorial should include: secure Postgresql configuration and setup; integration of a reliable user login system; user account functions which allow users to securely upload documents which will be stored in private databases using advanced data security practices and isolation protocols; membership tracking and payment system integration; a shopping app with cart and payment system for browsing and purchasing custom merch; a membership setup screen for users to set up accounts, upgrade, or cancel their memberships. 
-```
+Using ollama to run a local instance of llama3
+
+## Query
+
+>>> Provide a tutorial for advanced Python users demonstrating how to host a production Django application connected to a remote Postgresql 16 database. The tutorial should include: secure Postgresql configuration and setup; integration of a reliable user login system; user account functions which allow users to securely upload documents which will be stored in private databases using advanced data security practices and isolation protocols; membership tracking and payment system integration; a shopping app with cart and payment system for browsing and purchasing custom merch; a membership setup screen for users to set up accounts, upgrade, or cancel their memberships.
+
+## Response
 
 **Tutorial: Hosting a Production Django Application connected to a Remote Postgresql 16 Database**
 
