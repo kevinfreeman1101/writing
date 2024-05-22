@@ -10,30 +10,33 @@ Paraphrase the book of Revelation using the original Greek text to produce a mod
 
 ## Response
 
-**Revelation 1: A Letter to the Seven Churches**
+### Revelation 1: A Letter to the Seven Churches
 
-1. "The revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass..." (Greek
-ἀποκάλυψις Ἰησοῦ Χριστοῦ τὴν ὃν ἐδόθη αὐτῷ ὑπὸ τοῦ θεοῦ δείξαι τοῖς δοῦλοις αὐτοῦ τὰ γινόμενα ὀψία) Paraphrase: God gave Jesus a revelation to show His servants things that must soon come to pass. (Modern English Translation)
-Additional Context Notes:
-* Cultural context notes: The early Christian church was known for its apocalyptic writings and prophecies.
-* Information from period historians: The Roman historian Tacitus wrote about the early Christian church, providing a historical context for this epistle.
+1. "The revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass..." (Greek ἀποκάλυψις Ἰησοῦ Χριστοῦ τὴν ὃν ἐδόθη αὐτῷ ὑπὸ τοῦ θεοῦ δείξαι τοῖς δοῦλοις αὐτοῦ τὰ γινόμενα ὀψία) Paraphrase: God gave Jesus a revelation to show His servants things that must soon come to pass. (Modern English Translation)
 
-2. "And hast seen the things which must be done shortly..." (Greek Text: καὶ ἑωρᾶσας τὰ γινόμενα ὀψία) Paraphrase: And you have seen the things that are
-about to happen soon. (Modern English Translation)
-Additional Context Notes:
-* Cultural context notes: The early Christian church was known for its emphasis on the Second Coming of Jesus Christ.
-* Information from period historians: The Roman historian Cassius Dio wrote about the early Christian church, providing a historical context for this epistle.
+    Additional Context Notes
 
-**Revelation 2-3: Letters to the Seven Churches**
+   * Cultural context notes: The early Christian church was known for its apocalyptic writings and prophecies.
+   * Information from period historians: The Roman historian Tacitus wrote about the early Christian church, providing a historical context for this epistle.
 
-2:1. "Unto the angel of the church in Ephesus write..." (Greek Text: τοῖς ἄγγελσιν τῆς ἐκκλησίας τῆς Ἐφεσοῦ γράψω) Paraphrase: Write to the angel of the
-church in Ephesus... (Modern English Translation)
-Additional Context Notes:
-* Cultural context notes: The early Christian church was known for its missionary work and evangelism.
-* Information from period historians: The Roman historian Eusebius wrote about the early Christian church, providing a historical context for this epistle.
+2. "And hast seen the things which must be done shortly..." (Greek Text: καὶ ἑωρᾶσας τὰ γινόμενα ὀψία) Paraphrase: And you have seen the things that are about to happen soon. (Modern English Translation)
 
-2:8. "And unto the angel of the church in Smyrna write..." (Greek Text: τοῖς ἄγγελσιν τῆς ἐκκλησίας τῆς Σμυρνῆς γράψω) Paraphrase: Write to the angel of
-the church in Smyrna... (Modern English Translation)
+    Additional Context Notes
+
+   * Cultural context notes: The early Christian church was known for its emphasis on the Second Coming of Jesus Christ.
+   * Information from period historians: The Roman historian Cassius Dio wrote about the early Christian church, providing a historical context for this epistle.
+
+### Revelation 2-3: Letters to the Seven Churches
+
+2:1. "Unto the angel of the church in Ephesus write..." (Greek Text: τοῖς ἄγγελσιν τῆς ἐκκλησίας τῆς Ἐφεσοῦ γράψω) Paraphrase: Write to the angel of the church in Ephesus... (Modern English Translation)
+
+    Additional Context Notes
+
+   * Cultural context notes: The early Christian church was known for its missionary work and evangelism.
+   * Information from period historians: The Roman historian Eusebius wrote about the early Christian church, providing a historical context for this epistle.
+
+2:8. "And unto the angel of the church in Smyrna write..." (Greek Text: τοῖς ἄγγελσιν τῆς ἐκκλησίας τῆς Σμυρνῆς γράψω) Paraphrase: Write to the angel of the church in Smyrna... (Modern English Translation)
+
 Additional Context Notes:
 * Cultural context notes: The early Christian church was known for its persecution by the Roman Empire.
 * Information from period historians: The Roman historian Ammianus Marcellinus wrote about the early Christian church, providing a historical context for this epistle.
