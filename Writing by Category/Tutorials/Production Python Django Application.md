@@ -1,4 +1,4 @@
-# Python PDF Processing Tutorial
+# Production Python Django Application
 
 ```ollama;llama3
 # ollama query while running llama3
