@@ -1,10 +1,10 @@
 # Python Langchain Context Tutorial
 
-## llama3 Query
+## Query
 
 Provide a Python langchain tutorial demonstrating how to use Python functions to interact with LLMs to provide context for user interaction sessions. Format your response as a Markdown document.
 
-## Response
+## llama3 Response
 
 ### Python Langchain Tutorial
 

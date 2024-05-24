@@ -1,6 +1,6 @@
 # Production Python Django Application
 
-## llama3 Query
+## Query
 
 Provide a tutorial for advanced Python users demonstrating how to host a production Django application connected to a remote Postgresql 16 database. The tutorial should include:
 
@@ -13,7 +13,7 @@ Provide a tutorial for advanced Python users demonstrating how to host a product
 
 Format your response as a Markdown document.
 
-## Response
+## llama3 Response
 
 ### Hosting a Production Django Application with Remote Postgresql 16 Database
 
