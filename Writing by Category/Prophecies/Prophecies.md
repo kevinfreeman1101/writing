@@ -1,3 +1,3 @@
-# Prophecies
+# About
 
 This folder contains information about propecies from around the world.
