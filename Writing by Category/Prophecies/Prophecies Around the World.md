@@ -1,9 +1,13 @@
-Prompt
+# Prophecies Around the World
+
+## Prompt
+
 Summarize all predictions of Earth's complete destruction by fire from all known ancient texts. Be fully inclusive, leaving nothing out.
 
 [Disclaimer: it will still leave out many sources]
 
-GPT-4o Response
+## GPT-4o Response
+
 Ancient texts and mythologies from various cultures have predicted the end of the world by fire in several notable instances:
 
 Norse Mythology - Ragnarok: In Norse mythology, Ragnarok is a series of apocalyptic events culminating in a great battle where giants of frost and fire fight the gods. This battle leads to the destruction of the world, which is then submerged under water. However, the world is expected to resurface anew, with surviving gods meeting again (Source 1, 12).
@@ -23,3 +27,7 @@ Hinduism: Kalki Avatar: Hindu eschatology includes the belief  that the world wi
 Ancient Egyptian Mythology: Destruction by Fire: Some interpretations of  Egyptian mythology suggest that the world could end in a great  conflagration, although this is less explicit compared to other  traditions (general knowledge).
 
 These predictions reflect a common theme across cultures where fire symbolizes both destruction and purification, often leading to a renewal or rebirth of the world.
+
+## Comments
+
+Not sure what the weird source numbers were all about. Probably referencing an internal listing; otherwise, this is likely to be a hallucination.
