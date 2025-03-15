@@ -1,4 +1,0 @@
-# Genesis
-
-## Chapter 1
-
